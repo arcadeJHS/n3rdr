@@ -1,0 +1,13 @@
+{
+    "title": "That's the question!",
+    "question": "To be or not to be?",
+    "gameID": "47dfaeb0-5b27-4aef-bbaf-4c82d9c3b440",
+    "options": {
+        "1": "This is one of the possible answers...",
+        "2": "Donno",
+        "3": "42"
+    },
+    "deadLine": "2099-10-20T20:20:00.000Z",
+	"amount": 235.00,
+	"lastQuestion": false
+}

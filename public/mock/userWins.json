@@ -1,0 +1,26 @@
+[
+	{
+		"gameId": "47dfaeb0-5b27-4aef-bbaf-4c82d9c3b440", 
+		"gameTitle": "To be or not to be? That's the question!", 
+		"userBet": 5, 
+		"jackpot": 100
+	},
+	{
+		"gameId": "47dfaeb0-5b27-4aef-bbaf-4c82d9c3b440", 
+		"gameTitle": "why not?", 
+		"userBet": 10, 
+		"jackpot": 150
+	},
+	{
+		"gameId": "47dfaeb0-5b27-4aef-bbaf-4c82d9c3b440", 
+		"gameTitle": "wannaganna?", 
+		"userBet": 15, 
+		"jackpot": 200
+	},
+	{
+		"gameId": "47dfaeb0-5b27-4aef-bbaf-4c82d9c3b440", 
+		"gameTitle": "To be or not to be? That's the question! Maybe...", 
+		"userBet": 20, 
+		"jackpot": 250
+	}
+]

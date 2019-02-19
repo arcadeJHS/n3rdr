@@ -1,0 +1,35 @@
+{
+    "lastUpdate": "2018-10-05T12:44:29.744Z",
+    "scores": [
+        {
+            "userName": "matteo.piazza@exmachina.ch",
+            "team": "red",
+            "amount": 1.20
+        },
+        {
+            "userName": "user2",
+            "team": "red",
+            "amount": 90.00
+        },
+        {
+            "userName": "user3",
+            "team": "blue",
+            "amount": 87.50
+		},
+		{
+            "userName": "user6",
+            "team": "jackass",
+            "amount": 87.50
+        },
+        {
+            "userName": "user4",
+            "team": "yellow",
+            "amount": 115.45
+        },
+        {
+            "userName": "user5",
+            "team": "yellow",
+            "amount": 50.00
+        }
+    ]
+}

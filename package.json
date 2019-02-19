@@ -1,0 +1,31 @@
+{
+  "name": "n3rdr",
+  "version": "1.0.0",
+  "description": "A PWA UI for a quiz game, made with Vue, Bulma, CSS animations, and a bit of arcade graphics",
+  "author": "matteo.piazza@gmail.com",
+  "license": "WTFPL",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "postbuild": "rm -rf ../resources/public/mock"
+  },
+  "dependencies": {
+    "buefy": "^0.6.7",
+    "register-service-worker": "^1.0.0",
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1",
+    "webworkify-webpack": "^2.1.3",
+    "whatwg-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.4",
+    "@vue/cli-plugin-eslint": "^3.0.4",
+    "@vue/cli-plugin-pwa": "^3.0.5",
+    "@vue/cli-service": "^3.0.4",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
