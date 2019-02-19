@@ -4,17 +4,11 @@ A PWA UI for a quiz game, made with Vue, Bulma, CSS animations, and a bit of arc
 
 
 ## Screenshots
-<img src="screenshots/01-login.png" style="width: 33%;" />
-<img src="screenshots/02-homescreen.png" style="width: 33%;" />
-<img src="screenshots/04-mobile-menu.png" style="width: 33%;" />
-
-<img src="screenshots/03-game-rules.png" style="width: 33%;" />
-<img src="screenshots/05-game.png" style="width: 33%;" />
-<img src="screenshots/08-your-bet.png" style="width: 33%;" />
-
-<img src="screenshots/06-user-profile.png" style="width: 33%;" />
-<img src="screenshots/07-scoreboard.png" style="width: 33%;" />
-<img src="screenshots/09-your-wins.png" style="width: 33%;" />
+<!-- --> |  <!-- --> | <!-- -->	
+:---:|:---:|:---:
+![login](screenshots/01-login.png) | ![homescreen](screenshots/02-homescreen.png) | ![mobile-menu](screenshots/04-mobile-menu.png)
+![game-rules](screenshots/03-game-rules.png) | ![game](screenshots/05-game.png) | ![your-bet](screenshots/08-your-bet.png)
+![user-profile](screenshots/06-user-profile.png) | ![scoreboard](screenshots/07-scoreboard.png) | ![your-wins](screenshots/09-your-wins.png)
 
 
 ## Project setup
